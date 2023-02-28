@@ -12,14 +12,14 @@ body{
 /*Side Nav*/
 .sidenavbar{
     position: absolute;
-    top: 60px;
+    top: 40px;
     left: -100%;
     width: 100%;
     background-color: black;
     font-size: 30px;
     z-index: 1;
     transition: 0.75s;
-    opacity: 0.8;
+    opacity: 1;
 }
 .sidenavbar a{
     display: block;
